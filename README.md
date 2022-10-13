@@ -1,1 +1,1 @@
-# Binge-Watch-Bot
+# Easy-Captcha-Bot
