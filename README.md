@@ -1,1 +1,1 @@
-# JRM-Easy-Captcha-Bot
+# Binge-Watch-Bot
