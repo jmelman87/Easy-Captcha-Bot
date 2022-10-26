@@ -13,7 +13,7 @@ from selenium.common.exceptions import ElementNotVisibleException
 from selenium.webdriver.chrome.options import Options
 from termcolor import colored
 
-
+# USER WILL BE ASKED FOR HIS EMAIL AND PASSWORD - THE SCRIPT WILL THEN AUTOMATICALLY LOG IN FOR USER.
 
 email = input("What is your gmail address? \n")
 password = input("What is your password? \n")
@@ -25,15 +25,15 @@ opts.add_argument("--window-size=1920x1080")
 opts.binary_location = 'C:\\Users\Joshua\AppData\Local\Chromium\Application\chrome.exe'
 browser = webdriver.Chrome(executable_path=r'C:\\Users\Joshua\Desktop\chromedriver.exe', chrome_options=opts)
 
-#browser.get('https://accounts.google.com/signin/v2/identifier?hl=en&passive=true&continue')
+browser.get('https://accounts.google.com/signin/v2/identifier?hl=en&passive=true&continue')
 
 
-#browser.find_element_by_xpath('//*[@id="identifierId"]').send_keys(email)
-#browser.find_element_by_xpath('//*[@id="identifierNext"]/content/span').click()
-#sleep(5)
+browser.find_element_by_xpath('//*[@id="identifierId"]').send_keys(email)
+browser.find_element_by_xpath('//*[@id="identifierNext"]/content/span').click()
+sleep(5)
 
-#browser.find_element_by_xpath('//*[@id="password"]/div[1]/div/div[1]/input').send_keys(password)
-#browser.find_element_by_xpath('//*[@id="passwordNext"]/content').click()
+browser.find_element_by_xpath('//*[@id="password"]/div[1]/div/div[1]/input').send_keys(password)
+browser.find_element_by_xpath('//*[@id="passwordNext"]/content').click()
 
 sleep(3)
 
