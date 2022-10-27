@@ -40,7 +40,7 @@ For this part of the program, I used all the same libraries and tools used in ra
 ___________________________________________________________________________________________________________________________________________________________
 
 
-**I have used my program on Google accounts that were newly created, and it definitely worked to boost my account to a high reCaptcha score with simple, one-click captchas. It's an incredibly useful tool that can surely be made into a legitimate software!**
+**I have used my program with Google accounts that were newly created, and it definitely worked to boost my account to a high reCaptcha score with simple, one-click captchas. It's an incredibly useful tool that can surely be made into a legitimate software!**
 
 
 
