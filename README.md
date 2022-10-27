@@ -1,6 +1,6 @@
 # Easy-Captcha-Bot
 
-**Project Created January 2019 via PYTHON**
+**Project Created January 2020 via PYTHON**
 
 --> In high school, I was highly involved in buying and reselling popular sneakers, like Yeezys, Jordans, etc.
 
