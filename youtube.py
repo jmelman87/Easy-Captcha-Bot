@@ -54,7 +54,7 @@ if random.choice([vid1 , vid2]) == vid1:
 else:
     vid2.click()
 
-sleep(100000)
+sleep(100)
 
 #After 100 seconds, go back to homepage
 
