@@ -37,6 +37,7 @@ For this part of the program, I used all the same libraries and tools used in ra
 
 --> The program asks for the user's email and password, which the script then uses to log in. Then, it goes to YouTube. Then, the code randomly chooses between the first and second video on the homepage, and then clicks on its choice. After 100 seconds, it will then return to YouTube homepage. The script then makes a choice between 2 search options: opt1 ("30 Minute Timer") and opt2 ("24 Hour Timer"), and it searches its choice in the YouTube search bar. The script will then choose randomly between the first 15 results that come up, and will click and play the result. From this point, the code runs indefinitely until the user manually exits the program. This script will enable you to increase activity on your Google account by running a lot of YouTube video time. You could use something like this to be harvesting multiple Google accounts simultaneously to get easy captchas.
 
+___________________________________________________________________________________________________________________________________________________________
 
 
 **I have used my program on Google accounts that were newly created, and it definitely worked to boost my account to a high reCaptcha score with simple, one-click captchas. It's an incredibly useful tool that can surely be made into a legitimate software!**
