@@ -13,3 +13,7 @@
 --> If you log into a Google account with a high reCaptcha score, your chances of getting a one-click captcha, where you simply click the box and it submits without asking any questions, is high. 
 
 --> 2 main ways to get a high reCaptcha score is to 1) have an older Google account, and 2) have a Google account that is actively used
+
+--> My Easy Captcha Bot Python Project automates activity on your Google account in order to get easy captchas via Google.
+
+#
